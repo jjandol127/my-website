@@ -1,9 +1,5 @@
 # my-website
 
-asdfj;as??????
+This is a really awesome website
 
-created branch, example. see what's changed.
-
-Now editing on update-readme branch
-
-sdkfjas;difja;sf
+Updates made on master on GitHub before rebase
